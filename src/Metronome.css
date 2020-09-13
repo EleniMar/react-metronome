@@ -1,0 +1,40 @@
+.metronome {
+    text-align: center;
+    max-width: 375px;
+    max-height: 375px;
+    padding: 150px 35px;
+    border-style: double;
+    border-radius: 50%;
+    border-color: chocolate;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    background-color: rgb(241, 222, 209);
+  }
+  
+  .bpm-slider input {
+    width: 100%;
+    margin: 10px;
+    
+  }
+
+  .col{
+    margin: 70px auto;
+  }
+
+  .sgn-times{
+     padding:50px;
+
+  }
+
+ 
+ .sign-times-group{
+    width: 100%;
+}
+ .sgntime-btn{
+          border-color: chocolate;
+ }
+
+  .header{
+      text-align: center;
+      color: rgb(226, 133, 66);
+      font-size: 40px;
+  }
